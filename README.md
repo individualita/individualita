@@ -12,9 +12,9 @@ I'm currently diving deep into the world of JavaScript and React. What started a
 - **Lifelong Learner:** Passionate about expanding my knowledge base, whether it's through coding, reading, or experimenting with new technologies.
 - **Growth Mindset:** Committed to personal and professional growth, embracing challenges, and stepping out of my comfort zone.
 
-### Current Project:
+### 🔨 Current Project:
 
-🔨Currently, I am working on an exciting educational application aimed at enhancing the learning experience. This project combines my love for coding with my commitment to creating tools that can make a difference. Stay tuned for updates!
+Currently, I am working on an exciting educational application aimed at enhancing the learning experience. This project combines my love for coding with my commitment to creating tools that can make a difference. Stay tuned for updates!
 
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about technology!
