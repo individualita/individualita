@@ -1,5 +1,5 @@
 
-## Hello! 👋 🌞 :sun_with_face:	
+## Hello!  🌞 
 
 Welcome to my GitHub profile!
 
